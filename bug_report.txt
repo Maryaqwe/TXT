@@ -1,1 +1,16 @@
+BugReport
 
+Summary Недоступно поле для ввода e-mail для формы регистрации
+Id 00001
+Environment: Win10, Chrome
+Version: Ver 3.1
+Severity: Critical
+Priority: High
+Status: Open
+Autor: Zhukovets
+STR:
+    1.открыть сайт hh.ru
+    2.справа сверху нажать кнопку Войти
+    3.перевести курсор в поле e-mail
+ActualResult: Недоступно поле для ввода e-mail для формы регистрации, неактивно
+ExpectedResult: Доступно поле для ввода e-mail для формы регистрации, реагирует на клик
